@@ -72,3 +72,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
 1. Velikost ikonek by měla vycházet z velikosti textu. Konkrétně `width: 1em; height: 1em`. Zvětší se tím automaticky podle velikosti písma, které má být různé pro úzké a pro široké obrazovky.
 
 1. Na ukázky ze hry s viditelnými popisky použij HTML prvky `<figure>`, `<img>` a `<figcaption>`. Více se dočteš opět třeba na [developer.mozilla.org/en-US/docs/Web/HTML/Element/figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure).
+
+1. Odkaz `Úvodní stránka` nasměruj na `index.html`. Stejně tak `Začít hrát`, protože stránku s hrou zatím nemáš vytvořenou.
+
+1. Obě tlačítka ztmav po najetí myši úplně stejně jako na úvodní stránce.

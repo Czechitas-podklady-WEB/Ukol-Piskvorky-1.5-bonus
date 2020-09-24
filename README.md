@@ -29,7 +29,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
    - Ukázka ze hry č. 5: [instructions-05.jpg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-2/raw/main/podklady/instructions-05.jpg)
    - Ukázka ze hry č. 6: [instructions-06.jpg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-2/raw/main/podklady/instructions-06.jpg)
 
-1. Podle následujících obrázků nastyluj stránku tak, aby se vše vešlo na úzké i široké obrazovky.
+1. Podle následujících obrázků nastyluj stránku tak, aby se vše vešlo na úzké i široké obrazovky. Pozor na to, že GitHub může obrázky zmenšovat, aby se vešly do okna prohlížeče, takže některé rozměry můžou vypadat jinak, než bylo skutečně zamýšleno.
 
    <details>
       <summary>Úzká obrazovka</summary>

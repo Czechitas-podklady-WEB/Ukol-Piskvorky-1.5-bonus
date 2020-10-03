@@ -43,7 +43,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
 
    <details>
       <summary>Velmi široká obrazovka</summary>
-      <p>Verze pro velmi široké obrazovky se příliš neliší od varianty pro široké obrazovky. Následující snímek má hlavně demostrovat, že hlavní obsah má omezenou šířku.</p>
+      <p>Verze pro velmi široké obrazovky se příliš neliší od varianty pro široké obrazovky. Následující snímek má hlavně demonstrovat, že hlavní obsah má omezenou šířku.</p>
       <img alt="velmi široká obrazovka" src="zadani/velmi-siroka-obrazovka.png">
    </details>
 

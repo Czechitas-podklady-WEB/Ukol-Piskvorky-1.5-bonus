@@ -47,7 +47,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
       <img alt="velmi široká obrazovka" src="zadani/velmi-siroka-obrazovka.png">
    </details>
 
-1. Stránka z prvního úkolu by měla zůstat nedotčená.
+1. Vzhled stránky z prvního úkolu by měl zůstat nedotčený.
 
 1. Pro ušetření práce si můžeš následující texty zkopírovat.
 
